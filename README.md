@@ -45,15 +45,6 @@ Conéctate conmigo a través de estos puertos:
 
 ---
 
-## 📊 Logs del Sistema (Estadísticas)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JhonierQuintero&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-</div>
-
----
-
 <div align="center">
   <h3>✨ "La tecnología no es nada sin las personas que le dan vida." ✨</h3>
-  <p><img src="https://img.shields.io/badge/Optimizado%20para-Impacto%20y%20Creatividad-00CED1?style=for-the-badge" alt="Optimizado" /></p>
 </div>
