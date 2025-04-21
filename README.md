@@ -14,7 +14,7 @@ Bienvenido al **JhonierQuintero OS**, un sistema diseñado para **innovar**, **e
 - **Idiomas del Sistema**:  
   - Español 🇪🇸  
   - Inglés 🇬🇧 (principiante)
-- **Lugar de Creacion**: de cucuta pal mundo
+- **Lugar de Creacion**: de cucuta, colombia pal mundo.
 
 ---
 
@@ -24,17 +24,8 @@ Estos son los controladores que mantienen mi sistema funcionando a pleno rendimi
 
 | **Categoría**       | **Drivers Instalados**                                                                 |
 |---------------------|---------------------------------------------------------------------------------------|
-| **Lenguajes**       | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) !
-| **Herramientas**    | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) !
----
-
-## 🚀 Aplicaciones Instaladas (Proyectos)
-
-Explora algunas de las aplicaciones que he desarrollado:
-
-- **[Nombre del Proyecto 1](link al repositorio)**  
-  - **Función**: [Breve descripción del proyecto]  
-  - **Tecnologías**: [Lista de tecnologías usadas]  
+| **Lenguajes**       | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+| **Herramientas**    | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) 
 
 ---
 
@@ -50,14 +41,14 @@ Mi historial de versiones y parches:
 
 Conéctate conmigo a través de estos puertos:
 
-- **📧 Email**: [tu.email@example.com]
+- **📧 Email**: jhonierandresquinteromendoza@gmail.com
 
 ---
 
 ## 📊 Logs del Sistema (Estadísticas)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JhonierQuintero&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
 </div>
 
 ---
