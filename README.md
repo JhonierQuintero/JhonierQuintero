@@ -6,7 +6,7 @@ Bienvenido al **JhonierQuintero OS**, un sistema diseñado para **innovar**, **e
 ## 🌐 Kernel (Sobre Mí)
 
 - **Lugar de Creacion**: cucuta - colombia.
-- **Versión**: 17 años de su creacion  
+- **Versión**: 17.8 
 - **Arquitectura**: estuadiante a desarollador back-end 
 - **Módulos Cargados**:  
   - Desarrollo de Software  
