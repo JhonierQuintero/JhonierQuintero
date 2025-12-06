@@ -1,36 +1,22 @@
 # 👨‍💻 JhonierQuintero - Sistema Operativo 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Innovador+%7C+Desarrollador+de+Software+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Innovador+%7C+Desarrollador+de+Software" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🌐 Kernel (Sobre Mí)
 
-<table>
-  <tr>
-    <td width="50%">
-      <b>📍 Ubicación:</b> Cúcuta, Colombia<br>
-      <b>🎯 Versión:</b> 18<br>
-      <b>💼 Rol:</b> Desarrollador de Software<br>
-      <b>🎓 Estado:</b> Técnico Laboral en Desarrollo de Software
-    </td>
-    <td width="50%">
-      <b>🧠 Especialidades:</b><br>
-      - Desarrollo de Software<br>
-      - Resolución de Problemas<br>
-      - Trabajo en Equipo<br>
-      - Backend & Frontend
-    </td>
-  </tr>
-</table>
-
----
-
-## 🗣️ Idiomas
-
-<div align="center">
+- **Lugar de Creacion**: cucuta - colombia.
+- **Versión**: 18 
+- **Arquitectura**: desarollador de software
+- **Módulos Cargados**:  
+  - Desarrollo de Software  
+  - Resolución de Problemas  
+  - Trabajo en Equipo  
+- **Idiomas del Sistema**:  
+<div>
 
 | 🇪🇸 Español | 🇬🇧 Inglés |
 |:---:|:---:|
@@ -43,7 +29,7 @@
 ## 🛠️ Tech Stack (Drivers Instalados)
 
 ### 💻 Lenguajes de Programación
-<div align="center">
+<div>
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -54,7 +40,7 @@
 </div>
 
 ### 🌐 Frameworks & Backend
-<div align="center">
+<div >
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -62,7 +48,7 @@
 </div>
 
 ### 🗄️ Bases de Datos
-<div align="center">
+<div>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -70,25 +56,13 @@
 </div>
 
 ### 🔧 Herramientas & DevOps
-<div align="center">
+<div>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-## 📊 Estadísticas GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JhonierQuintero&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonierQuintero&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
@@ -127,7 +101,7 @@ Múltiples proyectos en desarrollo, análisis y optimización
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonierandresquinteromendoza@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JhonierQuintero)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/JhonierQuintero)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/JhonierQuintero) -->
 
 </div>
 
@@ -136,7 +110,5 @@ Múltiples proyectos en desarrollo, análisis y optimización
 <div align="center">
   
 ### ✨ *"La tecnología no es nada sin las personas que le dan vida."* ✨
-
-<img src="https://komarev.com/ghpvc/?username=JhonierQuintero&color=blueviolet" alt="Profile Views" />
 
 </div>
