@@ -1,4 +1,3 @@
-<div align="center">
 # 👨‍💻 JhonierQuintero - Sistema Operativo 
 
 <div align="center">
@@ -111,7 +110,5 @@ Múltiples proyectos en desarrollo, análisis y optimización
 <div align="center">
   
 ### ✨ *"La tecnología no es nada sin las personas que le dan vida."* ✨
-
-</div>
 
 </div>
